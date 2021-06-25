@@ -33,8 +33,8 @@
 <img width="329" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/82718969/123469511-c1612500-d5b8-11eb-8ad3-42f70abbcaa4.png">
 
 
-## Summary
-# Advantages Vs. Disadvantages of Refactoring
+# Summary
+## Advantages Vs. Disadvantages of Refactoring
 -Advantages of Refactoring a code are that you can take time to clean up the code to make it more efficient as well as give it a cleaner overall look. You can specify dimensions precisely after you have a working code as you will see the bits needed for each variable. In this case it made the code more versatile as it could be used with a much higher volume of data with only slight tweaks to the code itself. Disadvantages would be that it takes a lot of time to refactor a code and may cause other errors to occur which will require tweaking. I spent many hours rearranging this code as new error messages were popping up as I ran it. So in order to refactor you must have the time necessary to do so. Another disadvantage of refactoring could be that you make the code too specific to the data it is analyzing while attempting to make it more efficient. In efforts it may become less scalable to other data sets when trying to make it more efficient. The code may require substantial tweaking depending on the specifics of the new data.
 
 ## Original vs Refactored
