@@ -16,12 +16,14 @@
 ![Code Visual P2](https://user-images.githubusercontent.com/82718969/123469290-72b38b00-d5b8-11eb-895d-0736b89e033a.png)
 
 -The results of this yielded approximately 3x increase in speed to run the macro. The time to run the macro before refactoring was approximately ¾ of a second 
+
 <img width="298" alt="VBA_Challenge_2017 Non-Refactored" src="https://user-images.githubusercontent.com/82718969/123469358-9080f000-d5b8-11eb-97f9-72e4074301dd.png">
 
 <img width="299" alt="VBA_Challenge_2018  Non-Refactored" src="https://user-images.githubusercontent.com/82718969/123469413-a0003900-d5b8-11eb-8890-b13ee37919c3.png">
 
 
 -The time to run the macro after refactoring was approximately 1/4 of a second 
+
 <img width="292" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/82718969/123469486-b7d7bd00-d5b8-11eb-87d8-30d10fcc4d97.png">
 
 <img width="329" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/82718969/123469511-c1612500-d5b8-11eb-8ad3-42f70abbcaa4.png">
