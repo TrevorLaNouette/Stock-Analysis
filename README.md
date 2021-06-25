@@ -7,9 +7,12 @@
 
 ##Results
 -The biggest part of refactoring this code was to set a dimension for the outputs as variable that would be the smallest file size possible. These outputs were tickerVolume, tickerEndingPrice, and tickerStartingPrice. I was also able to set a dimension for the tickerindex to reference each individual ticker.
+
 -View the code below
 (insert Code Pt1 and 2)
-##Results- The results of this yielded approximately 3x increase in speed to run the macro. The time to run the macro before refactoring was approximately ¾ of a second (Insert 2017 & 2018 Non-Refactored)
+
+##Results- The results of this yielded approximately 3x increase in speed to run the macro. The time to run the macro before refactoring was approximately ¾ of a second 
+(Insert 2017 & 2018 Non-Refactored)
 -The time to run the macro after refactoring was approximately 1/4 of a second (Insert 2017 & 2018 )
 
 ##Summary
