@@ -12,7 +12,7 @@
 -View the code below
 (insert Code Pt1 and 2)
 
-- The results of this yielded approximately 3x increase in speed to run the macro. The time to run the macro before refactoring was approximately ¾ of a second 
+-The results of this yielded approximately 3x increase in speed to run the macro. The time to run the macro before refactoring was approximately ¾ of a second 
 (Insert 2017 & 2018 Non-Refactored)
 -The time to run the macro after refactoring was approximately 1/4 of a second (Insert 2017 & 2018 )
 
