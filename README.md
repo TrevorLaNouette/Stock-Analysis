@@ -17,7 +17,7 @@
 
 
 
-## **The time to run the macro before refactoring was approximately ¾ of a second.** 
+## **Time to run before refactoring was approximately ¾ of a second.** 
 
 <img width="298" alt="VBA_Challenge_2017 Non-Refactored" src="https://user-images.githubusercontent.com/82718969/123469358-9080f000-d5b8-11eb-97f9-72e4074301dd.png">
 
@@ -26,7 +26,7 @@
 
 
 
-## The time to run the macro after refactoring was approximately 1/7 of a second. **That's almost 5x faster!!!**
+## Time to run after refactoring was approximately 1/7 of a second. **That's almost 5x faster!!!**
 
 <img width="292" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/82718969/123469486-b7d7bd00-d5b8-11eb-87d8-30d10fcc4d97.png">
 
