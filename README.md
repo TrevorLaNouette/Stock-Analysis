@@ -3,9 +3,12 @@
 
 ## Overview of Project
 
+# Steve's Request
 -Our friend Steve was happy with the workbook we made for him that could analyze a set of stock market data and output information such as annual % return and total daily volume based on the stock’s ticker. He wanted us to continue refactor our code so that it will work as well with thousands of stocks rather than just the 12 he gave us. So to do this we need to make it run more efficiently.
 
-## Results and Analysis
+## Results
+
+### Analysis of Code
 
 -The biggest part of refactoring this code was to set a dimension for the outputs as variable that would be the smallest file size possible. These outputs were tickerVolume, tickerEndingPrice, and tickerStartingPrice. I was also able to set a dimension for the tickerindex to reference each individual ticker.
 
