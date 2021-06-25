@@ -1,9 +1,9 @@
 # **VBA Stock-Analysis**
 ## stock-analysis bootcamp Challenge
 
-## Overview of Project
+# Overview of Project
 
-# Steve's Request
+## Steve's Request
 -Our friend Steve was happy with the workbook we made for him that could analyze a set of stock market data and output information such as annual % return and total daily volume based on the stock’s ticker. He wanted us to continue refactor our code so that it will work as well with thousands of stocks rather than just the 12 he gave us. So to do this we need to make it run more efficiently.
 
 ## Results
