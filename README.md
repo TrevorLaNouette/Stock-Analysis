@@ -10,6 +10,7 @@
 -The biggest part of refactoring this code was to set a dimension for the outputs as variable that would be the smallest file size possible. These outputs were tickerVolume, tickerEndingPrice, and tickerStartingPrice. I was also able to set a dimension for the tickerindex to reference each individual ticker.
 
 -View the code below
+
 ![Code Visual P1](https://user-images.githubusercontent.com/82718969/123469191-56175300-d5b8-11eb-95c9-83ee3a7b67a0.png)
 
 ![Code Visual P2](https://user-images.githubusercontent.com/82718969/123469290-72b38b00-d5b8-11eb-895d-0736b89e033a.png)
